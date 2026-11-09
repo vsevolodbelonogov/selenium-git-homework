@@ -1,1 +1,2 @@
-# Мое домашнее задание по Selenium 
+# Selenium Homework
+Repository for Selenium Python course tasks.
